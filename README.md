@@ -1,6 +1,12 @@
-# eminem-ipsum README
+# loremCronkite-ipsum README
 
 This is the README for your extension "eminem-ipsum". After writing up a brief description, we recommend including the following sections.
+
+This extension is a fork of lreminem-ipsum by [Mayan Hooda](https://github.com/mayankhooda).
+
+I wanted to use Lorem Ipsum style text in classroom demos, but students don't seem to like classic lorem ipsum style text.  Emenim is from St. Joseph, Missouri.  Our university is in St. Joseph.  It seemed a match until I thought about some of Slim Shady's lyrics.  They are not exactly suitable for classroom use.
+
+But St. Joseph has a couple of other favorite sons.  One of them is [Walter Cronkite.](https://en.wikipedia.org/wiki/Walter_Cronkite). That seemes like a much safer source for a text generator, even if it does lose some of the comic beauty of the original extension title.
 
 ## Features
 
